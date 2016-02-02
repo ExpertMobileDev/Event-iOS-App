@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__37-[WorkSiteViewController viewDidLoad]_block_invoke:WorkSiteViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "result[@&quot;d&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__32-[LogInViewController onSignIn:]_block_invoke:LogInViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WorkSiteViewController getDataFromJsonResult:]:WorkSiteViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
